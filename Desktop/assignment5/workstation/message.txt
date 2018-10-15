@@ -1,0 +1,6 @@
+iD 	 Name 	 Age 	 Gender 	 Score 	
+12334	Frank	19	m	34	F
+13576	Sanh	19	m	56	D
+18674	Sarah	18	f	90	A
+17564	Jerry	18	m	100	A
+19875	Ama	19	f	67	C
